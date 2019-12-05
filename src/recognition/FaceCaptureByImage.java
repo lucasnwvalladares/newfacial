@@ -29,7 +29,7 @@ import static org.bytedeco.opencv.global.opencv_imgproc.rectangle;
  *
  * @author Lucas Nicolás
  */
-public class Captura_fotos {
+public class FaceCaptureByImage {
  
     public static void main(String[] args) throws Exception, org.bytedeco.javacv.FrameGrabber.Exception, InterruptedException{
         
